@@ -1,0 +1,80 @@
+
+/* 
+    Created on : Feb 3, 2024, 5:53:27 PM
+    Author     : sagenixon
+*/
+html{
+    background-color: #191919;
+    color: white;
+    padding: 5px 20px;
+}
+a{
+    text-decoration: none;
+}
+.join{
+    margin: auto;
+    width: 50%;
+    border: 1px solid #98f59b;
+    padding: 70px 15px;
+    text-align:center;
+}
+
+
+
+.round {
+    border: 1px solid gray;
+    border-radius: 25px;
+    padding: 15px 60px;
+    color: #98f59b;
+    
+}
+
+
+.exterior{
+    border: 1px solid lightgray;
+    padding: 15px 60px;
+    color: #98f59b;
+    width: 75%;
+    margin: 0 auto;
+    
+}
+
+label{
+   color: white;
+  
+}
+
+input{
+    background-color: #191919;
+    color: white;
+    
+}
+
+.input{
+    border: 1px solid darkgrey;
+    border-radius: 25px;
+    padding: 10px 80px;
+    width: 25%;
+    margin: 0 auto;
+}
+
+.submit{
+    color: white;
+    padding: 10px 20px;
+    
+}
+
+.subInput{
+    text-align: center;
+}
+
+p{
+    color: white;
+}
+
+#blue:hover{
+    background-color: #242424;
+    color: #abedff;
+}
+
+

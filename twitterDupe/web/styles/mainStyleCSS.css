@@ -1,0 +1,97 @@
+html{
+    background-color: #191919;
+    color: white;
+}
+
+.profileButton{
+    color: white;
+    padding: 10px;
+    border: 1px solid white;
+    position: relative;
+    float: right;
+}
+
+.wrap{
+    padding: 10px;
+}
+
+.list{
+    display: inline-block;
+    border: 1px solid white;
+    width: 25%;
+    margin: 0 auto;
+    padding: 10px;
+    
+
+  
+    
+}
+
+#tweetList{
+    width: 70%;
+    vertical-align: top;
+
+}
+
+#userList{
+    vertical-align: top;
+    
+}
+
+#followedTweetList{
+    width:70%;
+}
+
+.white{
+    color:white;
+}
+
+
+li{
+    list-style-type: none;
+    
+}
+
+textarea{
+    background-color: #191919;
+    color: white;
+    width: 75%;
+}
+
+.button{
+    background-color: #191919;
+    color: white;
+    padding: 10px;
+    border: 1px solid #242424;
+    
+}
+
+.button:hover, .profileButton:hover{
+    background-color: #3e3e3e;
+}
+
+a{
+    text-decoration: none;
+}
+
+h4{
+    font-size: 18px;
+}
+
+h3{
+    font-size: 20px;
+}
+
+h2{
+    font-size: 25px;
+}
+h1{
+    background-color: #4a4a4a;
+    padding: 20px;
+}
+
+.tweetSplit{
+    border-color: #676767;
+    width: 100%;
+    margin: 0 auto;
+}
