@@ -19,7 +19,7 @@ import java.util.List;
 public class DatabaseConnection {
     private static final String DB_URL = "jdbc:mysql://localhost/twitterdb";
     private static final String DB_USER = "root";
-    private static final String DB_PASSWORD = "Nixonsage_800";
+    private static final String DB_PASSWORD = "password";
 
     public static Connection getConnection() throws SQLException {
         Connection connection = null;
